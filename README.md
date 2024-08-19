@@ -1,0 +1,2 @@
+# Analysing-User-Interests-and-Recommending-Events-through-Email-using-Machine-Learning-and-Automation
+This project is a Personalized Event Recommendation System that leverages machine learning techniques such as Simulated Annealing and TF-IDF Vectorization to predict user interests and recommend relevant events. The system integrates user profile data, past participation, and web interactions to provide tailored event recommendations.
